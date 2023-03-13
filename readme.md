@@ -7,3 +7,4 @@ teste 19
 
 cavalo alado
 🗾oinha:
+tenso 36
